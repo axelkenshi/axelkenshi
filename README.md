@@ -1,3 +1,13 @@
+<div align="center">
+  <img src="src/github-header-image.png" width="900"/>
+</div>
+
+---
+
+<div align="center">
+  <img src="src/tech_powered.png" width="900"/>
+</div>
+
 <h1 align="center">Hey 👋 What's up?</h1>
 
 ###
@@ -153,13 +163,11 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://media1.tenor.com/m/FTryuAk9O1sAAAAC/majo-no-tabitabi-the-journey-of-elaina.gif"  />
+  <img height="400" src="https://media1.tenor.com/m/FTryuAk9O1sAAAAC/majo-no-tabitabi-the-journey-of-elaina.gif"  />
 </div>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=axelkenshi.axelkenshi&right_color=deepskyblue&left_text=Visitor"  />
 </div>
-
-###
