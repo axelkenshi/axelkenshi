@@ -12,7 +12,8 @@
 
 ###
 
-<p align="left">My name is Axel and I'm a computer science student at vocational high school. from bandung city, indonesia.</p>
+<p align="left">Hi, I’m Axel — a future-focused developer from Bandung(🇮🇩), currently sharpening my passion in computer science at vocational high school. I specialize in scalable solutions, technical workflows, and creative coding.
+</p>
 
 ###
 
