@@ -5,7 +5,7 @@
 ---
 
 <div align="center">
-  <img src="src/tech_powered.png" width="800" style="border-radius: 12px;/>
+  <img src="src/tech_powered.png" width="800" style="border-radius: 12px;"/>
 </div>
 
 ###
