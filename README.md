@@ -5,7 +5,7 @@
 ---
 
 <div align="center">
-  <img src="src/tech_powered.png" width="900"/>
+  <img src="src/tech_powered.png" width="900" style="border-radius: 12px;/>
 </div>
 
 <h1 align="left">Hey 👋 What's up?</h1>
@@ -76,6 +76,14 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=axelkenshi&layout=compact" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api?username=axelkenshi&show_icons=true&theme=merko" width="48%" />
 </div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/axelkenshi/axelkenshi/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/axelkenshi/axelkenshi/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/axelkenshi/axelkenshi/output/pacman-contribution-graph.svg">
+</picture>
 
 ---
 
