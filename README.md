@@ -4,8 +4,8 @@
 
 ---
 
-<div align="center">
-  <img src="src/tech_powered.png" width="800" style="border-radius: 15px;"/>
+<div align="center"style="border-radius: 15px;">
+  <img src="src/tech_powered.png" width="800"/>
 </div>
 
 ###
