@@ -33,7 +33,7 @@
 
 <div align="left">
 <p align="left">
-  <a href="https://skillicons.dev">
+  <a href="https://instagram.com/axelkenshi">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
     <a href="https://skillicons.dev">
