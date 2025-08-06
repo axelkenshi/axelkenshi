@@ -43,7 +43,7 @@
   <a href="https://luminarysirx.my.id">
     <img src="https://skillicons.dev/icons?i=markdown" />
   </a>
-    <a href="https://skillicons.dev">
+    <a href="mailto:axlldevolopment@yahoo.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
     </a>
