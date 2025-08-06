@@ -36,7 +36,7 @@
   <a href="https://instagram.com/axelkenshi">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
-    <a href="https://skillicons.dev">
+    <a href="https://linkedin.com/axelkenshi">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   </a>
