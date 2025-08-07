@@ -67,8 +67,8 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,git,github,vscode,visualstudio,jest,postman,notion,obsidian,netlify,vercel,vite,npm,pnpm,yarn,bun" />
-    <img src="https://skillicons.dev/icons?i=nginx,jenkins,devto,bots,firebase,gamemakerstudio,gulp,babel,latex" />
+    <img src="https://skillicons.dev/icons?i=figma,git,github,vscode,visualstudio,jest,postman,notion,obsidian,netlify,vercel,vite,npm,pnpm,yarn" />
+    <img src="https://skillicons.dev/icons?i=nginx,jenkins,devto,bots,firebase,gamemakerstudio,gulp,babel,bun,latex" />
     <img src="https://skillicons.dev/icons?i=ps,ai,ae,pr,xd,wordpress,bash,blender,cloudflare,docker,unity,githubactions,stackoverflow" />
   </a>
 </p>
