@@ -59,7 +59,7 @@
 
 ###
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,tailwind,scss,bootstrap,materialui,react,nodejs,nuxtjs,express,astro,solidjs,svelte,angular,nextjs,expressjs,alpinejs,vue,laravel,jquery,mysql,postgresql,php,mongodb,redis,sqlite,lua,yarn&perline=15)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,tailwind,scss,bootstrap,materialui,react,nodejs,nuxtjs,expressjs,astro,solidjs,svelte,angular,nextjs,alpinejs,vue,laravel,jquery,mysql,postgresql,php,mongodb,redis,sqlite,lua,rust,yarn&perline=15)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=flutter,kotlin,dart,go,ruby,c,cpp,dotnet,python,haskell,tensorflow,opencv,solidity&perline=15)](https://skillicons.dev)
 
 
