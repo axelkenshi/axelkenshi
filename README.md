@@ -59,7 +59,7 @@
 
 ###
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,tailwind,scss,bootstrap,materialui,react,nodejs,nuxtjs,expressjs,astro,solidjs,svelte,angular,nextjs,alpinejs,vue,laravel,jquery,mysql,postgresql,php,mongodb,redis,sqlite,lua,rust,yarn&perline=15)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,tailwind,scss,bootstrap,materialui,react,nodejs,nuxtjs,expressjs,astro,solidjs,svelte,angular,nextjs,alpinejs,vue,laravel,jquery,mysql,postgresql,php,mongodb,redis,sqlite,lua,rust&perline=15)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=flutter,kotlin,dart,go,ruby,c,cpp,dotnet,python,haskell,tensorflow,opencv,solidity&perline=15)](https://skillicons.dev)
 
 
@@ -67,7 +67,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,git,github,vscode,visualstudio,jest,postman,notion,obsidian,netlify,vercel,vite,npm,pnpm,bun" />
+    <img src="https://skillicons.dev/icons?i=figma,git,github,vscode,visualstudio,jest,postman,notion,obsidian,netlify,vercel,vite,npm,pnpm,yarn,bun" />
     <img src="https://skillicons.dev/icons?i=nginx,jenkins,devto,bots,firebase,gamemakerstudio,gulp,babel,latex" />
     <img src="https://skillicons.dev/icons?i=ps,ai,ae,pr,xd,wordpress,bash,blender,cloudflare,docker,unity,githubactions,stackoverflow" />
   </a>
