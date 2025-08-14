@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">Hi, I’m Axel — a future-focused developer from Bandung(🇮🇩), currently sharpening my passion in computer science at vocational high school. I specialize in scalable solutions, technical workflows, and creative coding.
+<p align="left">Hi, I’m Axel — a future-focused developer from Bandung city (🇮🇩), currently sharpening my passion in computer science at vocational high school. I specialize in scalable solutions, technical workflows, and creative coding.
 </p>
 
 ###
