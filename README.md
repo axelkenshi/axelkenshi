@@ -19,7 +19,7 @@
 
 ###
 
-<h2 align="left">A little bit About me</h2>
+<h2 align="left"> 🌱 A little bit About me</h2>
 
 ###
 
