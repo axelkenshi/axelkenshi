@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">✨ Fullstack Web Dev<br>📚 I'm currently learning Data Science<br>🎯 Goals: AI Enggineer<br>🎲 Fun fact: Likes weird AI Models<br>🎭 Pronoun: Xell<br>💡 Philosophy: Code with clarity, brand with boldness<br>🧠 Thinking Style: Detail-oriented & creatively curious</p>
+<p align="left">✨ Fullstack Web Dev<br>📚 I'm currently learning Data Science<br>🎯 Goals: AI Enggineer<br>🎲 Fun fact: Likes weird AI Models<br>🎭 Pronoun: Xell<br>💡 Philosophy: Code with clarity, brand with boldness, building with purpose.<br>🧠 Thinking Style: Detail-oriented & creatively curious</p>
 
 ###
 
