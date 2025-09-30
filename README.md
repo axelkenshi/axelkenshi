@@ -93,3 +93,13 @@
 <div align="center">
   <img height="700" src="https://media1.tenor.com/m/FTryuAk9O1sAAAAC/majo-no-tabitabi-the-journey-of-elaina.gif"  />
 </div>
+
+> [!TIP]
+> Becoming a skilled software engineer isn't easy; not everyone can achieve it. It requires a sharp effort and a deep understanding. Creating applications isn't as easy as it sounds. Someone who can only do the basics won't make an impact. The skills you acquire aren't just for competition, but for realizing your dreams.
+
+> Even after you reach an advanced level, learning never stops, with trial and error, until you're able to create something with the creativity and skills you possess to make it happen.
+
+> The long journey is a process that should be enjoyed, gradually achieving your goals, facing challenges that make you think about giving up.
+Experience is the practice of theory, transforming it into expertise.
+
+> Keep Grinding!
