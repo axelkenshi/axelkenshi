@@ -103,3 +103,7 @@
 Experience is the practice of theory, transforming it into expertise.
 
 > Keep Grinding!
+
+<div align="center">
+  <img src="src/gray0_ctp_on_line.svg"width="1000px"/>
+</div>
