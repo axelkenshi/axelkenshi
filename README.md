@@ -26,17 +26,31 @@ Beyond the classroom, I immerse myself in Flutter development and AI-driven auto
   🧠 <b>Thinking Style:</b> Detail-oriented & creatively curious
 </p>
 
-<h2 align="left">Connect With Me!</h2>
+---
 
-###
-
-<div align="left">
-  <a href="https://instagram.com/axelkenshi"><img src="https://skillicons.dev/icons?i=instagram" /></a>
-  <a href="https://linkedin.com"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="mailto:axlldevolopment@yahoo.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-  <a href="https://portofolio.luminarysirx.my.id"><img src="https://skillicons.dev/icons?i=markdown" /></a>
+<div align="center">
+<table border="0" style="border-collapse: collapse; width: 100%;">
+  <tr>
+    <!-- Bilah kiri: sosmed -->
+    <td align="left" valign="top" style="border: none;">
+      <h3>🌐 Let's Connect With Me</h3>
+      <a href="https://instagram.com"><img src="https://skillicons.dev/icons?i=instagram" width="40" /></a>
+      <a href="https://linkedin.com"><img src="https://skillicons.dev/icons?i=linkedin" width="40" /></a>
+      <a href="mailto:axlldevolopment@yahoo.com"><img src="https://skillicons.dev/icons?i=gmail" width="40" /></a>
+      <a href="https://portofolio.luminarysirx.my.id"><img src="https://skillicons.dev/icons?i=markdown" width="40" /></a>
+    </td>
+    <!-- JARAK ANTAR KOLOM -->
+      <td width="50" style="border: none;"></td>
+    <!-- Bilah kanan: resume -->
+    <td align="left" valign="top" style="border: none;">
+      <h3>📜 Grab My Resume (PDF)</h3>
+      <a href="https://example.com">
+        <img src="" />
+      </a>
+    </td>
+  </tr>
+</table>
 </div>
-
 
 ---
 
@@ -62,12 +76,18 @@ Beyond the classroom, I immerse myself in Flutter development and AI-driven auto
 
 ---
 
+###
+
+<h1 align="center">🚀 Featured Projects</h1>
+
+---
+
+<h1 align="center">📊 My Productivity</h1>
+
 <div style="display: flex; justify-content: space-between;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=axelkenshi&layout=compact" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api?username=axelkenshi&show_icons=true&theme=merko" width="48%" />
 </div>
-
-###
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/axelkenshi/axelkenshi/output/pacman-contribution-graph-dark.svg">
