@@ -34,8 +34,8 @@ Beyond the classroom, I immerse myself in Flutter development and AI-driven auto
     <!-- Bilah kiri: sosmed -->
     <td align="left" valign="top" style="border: none;">
       <h3>🌐 Let's Connect With Me</h3>
-      <a href="https://instagram.com"><img src="https://skillicons.dev/icons?i=instagram" width="40" /></a>
-      <a href="https://linkedin.com"><img src="https://skillicons.dev/icons?i=linkedin" width="40" /></a>
+      <a href="https://instagram.com/axelkenshi"><img src="https://skillicons.dev/icons?i=instagram" width="40" /></a>
+      <a href="https://linkedin.com/in/axll-kenshi"><img src="https://skillicons.dev/icons?i=linkedin" width="40" /></a>
       <a href="mailto:axlldevolopment@yahoo.com"><img src="https://skillicons.dev/icons?i=gmail" width="40" /></a>
       <a href="https://portofolio.luminarysirx.my.id"><img src="https://skillicons.dev/icons?i=markdown" width="40" /></a>
     </td>
@@ -45,7 +45,7 @@ Beyond the classroom, I immerse myself in Flutter development and AI-driven auto
     <td align="left" valign="top" style="border: none;">
       <h3>📜 Grab My Resume (PDF)</h3>
       <a href="https://example.com">
-        <img src="" />
+        <img src="src/curriculum-resume-svgrepo-com.svg" width="40"/>
       </a>
     </td>
   </tr>
