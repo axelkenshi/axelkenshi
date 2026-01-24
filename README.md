@@ -1,75 +1,62 @@
 <div align="center">
-  <img src="src/github-header-image.png" width="900"/>
+  <img src="src/github-header-banner.gif" width="900" alt="Banner"/>
 </div>
 
 ---
 
-<div align="center"style="border-radius: 15px;">
-  <img src="src/tech_powered.png" width="800"/>
-</div>
+<h1 align="left">Hey, What's up? 🙋‍♂️</h1>
 
-###
+<p align="left">
+Hi, I’m Axel — a student developer from Bandung, Indonesia (🇮🇩) with a deep interest in how software can solve real-world problems. Currently, I'm sharpening my foundation in Computer Science at a vocational high school, where I've fallen in love with the process of building clean and purposeful digital products.<br>
 
-<h1 align="left">Hey 👋 What's up?</h1>
+Beyond the classroom, I immerse myself in Flutter development and AI-driven automation. I don't just want to write code; I strive to write it elegantly and maintainably. Driven by curiosity, I'm constantly experimenting with the synergy between technical logic and creative branding—always building with a 'purpose-first' mindset.
 
-###
-
-<p align="left">Hi, I’m Axel — a future-focused developer from Bandung city, Indonesia (🇮🇩), currently sharpening my passion in computer science at vocational high school. I specialize in scalable solutions, technical workflows, and creative coding.
 </p>
 
-###
+<h2 align="left">🌱 A little bit About me</h2>
 
-<h2 align="left"> 🌱 A little bit About me</h2>
-
-###
-
-<p align="left">✨ Fullstack Web Dev<br>📚 I'm currently learning Data Science<br>🎯 Goals: AI Enggineer<br>🎲 Fun fact: Likes weird AI Models<br>🎭 Pronoun: Xell<br>💡 Philosophy: Code with clarity, brand with boldness, building with purpose.<br>🧠 Thinking Style: Detail-oriented & creatively curious</p>
-
-###
+<p align="left">
+  🎭 <b>Pronoun:</b> Axel ヾ(＠⌒ー⌒＠)ノ<br>
+  ✨ <b>Education:</b> Student at <a href="https://www.instagram.com/smkbinawisatalembang_official">@BinaWisata</a> Vocational High School<br>
+  🌐 <b>Portfolio:</b> <a href="https://portofolio.luminarysirx.my.id">AxelkenshiDev</a><br>
+  📚 <b>Currently Learning:</b> Flutter & Mobile Development<br>
+  🎯 <b>Goals:</b> Building impactful open-source projects<br>
+  🎲 <b>Fun fact:</b> Really like exploring the latest AI trends<br>
+  💡 <b>Philosophy:</b> Code with clarity, brand with boldness, building with purpose.<br>
+  🧠 <b>Thinking Style:</b> Detail-oriented & creatively curious
+</p>
 
 <h2 align="left">Connect With Me!</h2>
 
 ###
 
 <div align="left">
-<p align="left">
-  <a href="https://instagram.com/axelkenshi">
-    <img src="https://skillicons.dev/icons?i=instagram" />
-  </a>
-    <a href="https://linkedin.com/axelkenshi">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  </a>
-  <a href="https://luminarysirx.my.id">
-    <img src="https://skillicons.dev/icons?i=markdown" />
-  </a>
-    <a href="mailto:axlldevolopment@yahoo.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-    </a>
-    <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=gitlab" />
-  </a>
-</p>
+  <a href="https://instagram.com/axelkenshi"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+  <a href="https://linkedin.com"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="mailto:axlldevolopment@yahoo.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="https://portofolio.luminarysirx.my.id"><img src="https://skillicons.dev/icons?i=markdown" /></a>
 </div>
+
 
 ---
 
-<h2 align="center">My Tech Stack</h2>
+<h2 align="center">🥶 My Tech Stack</h2>
 
 ###
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,tailwind,scss,bootstrap,materialui,react,nodejs,nuxtjs,expressjs,astro,solidjs,svelte,angular,nextjs,alpinejs,vue,laravel,jquery,mysql,postgresql,php,mongodb,redis,sqlite,lua,rust&perline=15)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=flutter,kotlin,dart,go,ruby,c,cpp,dotnet,python,haskell,tensorflow,opencv,solidity&perline=15)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,tailwind,scss,bootstrap,materialui,react,nodejs,expressjs,astro,svelte,angular,nextjs,alpinejs,vue,laravel,jquery,mysql,postgresql,php,mongodb,redis,sqlite,dart,flutter&perline=15)](https://skillicons.dev)
 
+<h2 align="center">🤔 Familiar With</h2>
 
-<h2 align="center">tools that I use frequently</h2>
+[![My Skills](https://skillicons.dev/icons?i=kotlin,go,ruby,c,cpp,dotnet,python,haskell,tensorflow,opencv,solidity,rust,lua&perline=15)](https://skillicons.dev)
+
+<h2 align="center">🛠️ Tools & Environments</h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=figma,git,github,vscode,visualstudio,jest,postman,notion,obsidian,netlify,vercel,vite,npm,pnpm,yarn" />
     <img src="https://skillicons.dev/icons?i=nginx,jenkins,devto,bots,firebase,gamemakerstudio,gulp,babel,bun,latex,markdown" />
-    <img src="https://skillicons.dev/icons?i=ps,ai,ae,pr,xd,wordpress,bash,blender,cloudflare,docker,unity,githubactions,stackoverflow" />
+    <img src="https://skillicons.dev/icons?i=ps,ai,ae,pr,windows,wordpress,bash,blender,cloudflare,docker,unity,githubactions,stackoverflow" />
   </a>
 </p>
 
@@ -95,15 +82,14 @@
 </div>
 
 > [!TIP]
-> Becoming a good software engineer isn't easy; not everyone can achieve it. It requires a sharp effort and a deep understanding. Creating applications isn't as easy as it sounds. Someone who can only do the basics won't make an impact. The skills you acquire aren't just for competition, but for realizing your dreams.
-
-> Even after you reach an advanced level of insight, learning never stops, with trial and error, until you're able to create something with the creativity and skills you possess to make it happen.
-
-> The long journey is a process that should be enjoyed, gradually achieving your goals, facing challenges that make you think about giving up.
-Experience is the practice of theory, transforming it into expertise.
-
-> Keep Grinding!
+> The long journey is a process that should be enjoyed, gradually achieving your goals, facing challenges that make you think about giving up. Experience is the practice of theory, transforming it into expertise.
+> 
+> **Keep Grinding!**
 
 <div align="center">
-  <img src="src/gray0_ctp_on_line.svg"width="1000px"/>
+  <img src="src/gray0_ctp_on_line.svg" width="100%"/>
 </div>
+
+<!-- <div align="center"style="border-radius: 15px;">
+  <img src="src/tech_powered.png" width="800"/>
+</div> -->
