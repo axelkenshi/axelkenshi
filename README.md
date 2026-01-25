@@ -58,9 +58,9 @@ Beyond the classroom, I immerse myself in Flutter development and AI-driven auto
 
 ###
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,tailwind,scss,bootstrap,materialui,react,nodejs,expressjs,astro,svelte,angular,nextjs,alpinejs,vue,laravel,jquery,mysql,postgresql,php,mongodb,redis,sqlite,dart,flutter&perline=15)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,tailwind,scss,bootstrap,materialui,react,nodejs,expressjs,astro,svelte,mysql,postgresql,php,mongodb,redis,sqlite,dart,flutter&perline=15)](https://skillicons.dev)
 
-<h2 align="center">🤔 Familiar With</h2>
+<h2 align="center">🤔 ever familiar (at least)</h2>
 
 [![My Skills](https://skillicons.dev/icons?i=kotlin,go,ruby,c,cpp,dotnet,python,haskell,tensorflow,opencv,solidity,rust,lua&perline=15)](https://skillicons.dev)
 
