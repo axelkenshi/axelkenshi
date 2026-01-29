@@ -7,10 +7,9 @@
 <h1 align="left">Hey, What's up? 🙋‍♂️</h1>
 
 <p align="left">
-Hi, I’m Axel — a student developer from Bandung, Indonesia (🇮🇩) with a deep interest in how software can solve real-world problems. Currently, I'm sharpening my foundation in Computer Science at a vocational high school, where I've fallen in love with the process of building clean and purposeful digital products.<br>
+Hi, I’m Axel — a student developer from Bandung, Indonesia (🇮🇩) with a deep interest in how software can solve real-world problems. Currently, I'm sharpening my foundation in Software Engineering at a vocational high school, where I've fallen in love with the process of building clean and purposeful digital products.<br>
 
 Beyond the classroom, I immerse myself in Flutter development and AI-driven automation. I don't just want to write code; I strive to write it elegantly and maintainably. Driven by curiosity, I'm constantly experimenting with the synergy between technical logic and creative branding—always building with a 'purpose-first' mindset.
-
 </p>
 
 <h2 align="left">🌱 A little bit About me</h2>
@@ -18,7 +17,7 @@ Beyond the classroom, I immerse myself in Flutter development and AI-driven auto
 <p align="left">
   🎭 <b>Pronoun:</b> Axel ヾ(＠⌒ー⌒＠)ノ<br>
   ✨ <b>Education:</b> Student at <a href="https://www.instagram.com/smkbinawisatalembang_official">@BinaWisata</a> Vocational High School<br>
-  🌐 <b>Portfolio:</b> <a href="https://portofolio.luminarysirx.my.id">AxelkenshiDev</a><br>
+  🌐 <b>Portfolio:</b> <a href="https://portofolio.luminarysirx.my.id">Axelkenshi.my.id</a><br>
   📚 <b>Currently Learning:</b> Flutter & Mobile Development<br>
   🎯 <b>Goals:</b> Building impactful open-source projects<br>
   🎲 <b>Fun fact:</b> Really like exploring the latest AI trends<br>
