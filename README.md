@@ -4,6 +4,7 @@
 
 ---
 
+<!-- Simple biograpy -->
 <h1 align="left">Hey, What's up? 🙋‍♂️</h1>
 
 <p align="left">
@@ -27,6 +28,7 @@ Beyond the classroom, I immerse myself in Flutter development and AI-driven auto
 
 ---
 
+<!-- Social media Section & CV -->
 <div align="center">
 <table border="0" style="border-collapse: collapse; width: 100%;">
   <tr>
@@ -53,6 +55,7 @@ Beyond the classroom, I immerse myself in Flutter development and AI-driven auto
 
 ---
 
+<!-- Tech stack Icons -->
 <h2 align="center">🥶 My Tech Stack</h2>
 
 ###
@@ -77,16 +80,20 @@ Beyond the classroom, I immerse myself in Flutter development and AI-driven auto
 
 ###
 
+<!-- Highlight Project's -->
 <h1 align="center">🚀 Featured Projects</h1>
 
 ---
 
+<!-- Productivity Stats -->
 <h1 align="center">📊 My Productivity</h1>
 
-<div style="display: flex; justify-content: space-between;">
+<!-- github stats for readme -->
+<!-- <div style="display: flex; justify-content: space-between;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=axelkenshi&layout=compact" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api?username=axelkenshi&show_icons=true&theme=merko" width="48%" />
-</div>
+</div> -->
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/axelkenshi/axelkenshi/output/pacman-contribution-graph-dark.svg">
@@ -96,6 +103,7 @@ Beyond the classroom, I immerse myself in Flutter development and AI-driven auto
 
 ---
 
+<!-- End: Decoration & Quotes -->
 <div align="center">
   <img height="700" src="https://media1.tenor.com/m/FTryuAk9O1sAAAAC/majo-no-tabitabi-the-journey-of-elaina.gif"  />
 </div>
@@ -108,7 +116,3 @@ Beyond the classroom, I immerse myself in Flutter development and AI-driven auto
 <div align="center">
   <img src="src/gray0_ctp_on_line.svg" width="100%"/>
 </div>
-
-<!-- <div align="center"style="border-radius: 15px;">
-  <img src="src/tech_powered.png" width="800"/>
-</div> -->
