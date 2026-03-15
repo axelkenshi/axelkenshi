@@ -8,7 +8,7 @@
 <h1 align="left">Hey, What's up? 🙋‍♂️</h1>
 
 <p align="left">
-Hi, I’m Axel — a student developer from Bandung, Indonesia (🇮🇩) with a deep interest in how software can solve real-world problems. Currently, I'm sharpening my foundation in Software Engineering at a vocational high school, where I've fallen in love with the process of building clean and purposeful digital products.<br>
+I’m Axel — a student developer from Bandung, Indonesia (🇮🇩) with a deep interest in how software can solve real-world problems. Currently, I'm sharpening my foundation in Software Engineering at a vocational high school, where I've fallen in love with the process of building clean and purposeful digital products.<br>
 
 Beyond the classroom, I immerse myself in Flutter development and AI-driven automation. I don't just want to write code; I strive to write it elegantly and maintainably. Driven by curiosity, I'm constantly experimenting with the synergy between technical logic and creative branding—always building with a 'purpose-first' mindset.
 </p>
@@ -17,7 +17,7 @@ Beyond the classroom, I immerse myself in Flutter development and AI-driven auto
 
 <p align="left">
   🎭 <b>Pronoun:</b> Axel ヾ(＠⌒ー⌒＠)ノ<br>
-  ✨ <b>Education:</b> Student at <a href="https://www.instagram.com/smkbinawisatalembang_official">@BinaWisata</a> Vocational High School<br>
+  ✨ <b>Formal Education:</b> Student at <a href="https://www.instagram.com/smkbinawisatalembang_official">@BinaWisata</a> Vocational High School<br>
   🌐 <b>Portfolio:</b> <a href="https://portofolio.luminarysirx.my.id">Axelkenshi.my.id</a><br>
   📚 <b>Currently Learning:</b> Flutter & Mobile Development<br>
   🎯 <b>Goals:</b> Building impactful open-source projects<br>
@@ -60,7 +60,7 @@ Beyond the classroom, I immerse myself in Flutter development and AI-driven auto
 
 ###
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,tailwind,scss,bootstrap,materialui,react,nodejs,expressjs,astro,svelte,mysql,postgresql,php,isar,sqlite,dart,flutter&perline=15)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,tailwind,scss,bootstrap,materialui,react,nodejs,expressjs,astro,svelte,mysql,postgresql,php,sqlite,dart,flutter&perline=15)](https://skillicons.dev)
 
 <h2 align="center">🤔 ever familiar (at least)</h2>
 
@@ -70,9 +70,9 @@ Beyond the classroom, I immerse myself in Flutter development and AI-driven auto
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,git,github,vscode,visualstudio,jest,postman,notion,obsidian,netlify,vercel,vite,npm,pnpm,yarn" />
-    <img src="https://skillicons.dev/icons?i=nginx,jenkins,devto,bots,firebase,gamemakerstudio,gulp,babel,bun,latex,markdown" />
-    <img src="https://skillicons.dev/icons?i=ps,ai,ae,pr,windows,wordpress,bash,blender,cloudflare,docker,unity,githubactions,stackoverflow" />
+    <img src="https://skillicons.dev/icons?i=figma,git,github,vscode,visualstudio,postman,notion,obsidian,netlify,vercel,vite,npm,pnpm,yarn" />
+    <img src="https://skillicons.dev/icons?i=nginx,firebase,gulp,babel,bun,latex,markdown" />
+    <img src="https://skillicons.dev/icons?i=windows,bash,cloudflare,docker,githubactions,stackoverflow" />
   </a>
 </p>
 
