@@ -45,6 +45,7 @@ Beyond the classroom, I immerse myself in Mobile development and AI-driven autom
       <a href="https://linkedin.com/in/axll-kenshi"><img src="https://skillicons.dev/icons?i=linkedin" width="40" /></a>
       <a href="https://x.com"><img src="https://skillicons.dev/icons?i=twitter" width="40" /></a>
       <a href="mailto:axlldevolopment@yahoo.com"><img src="https://skillicons.dev/icons?i=gmail" width="40" /></a>
+      <a href="example.com"> <img src="src/playstore.svg" width="40"/></a>
     </td>
     <!-- Gap Between Column -->
       <td width="50" style="border: none;"></td>
