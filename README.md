@@ -28,6 +28,12 @@ Beyond the classroom, I immerse myself in Mobile development and AI-driven autom
 
 ---
 
+<div align="center">
+  <img src="src/axllbanner.png" width="900" alt="Banner"/>
+</div>
+
+---
+
 <!-- Social media Section & CV -->
 <div align="center">
 <table border="0" style="border-collapse: collapse; width: 100%;">
