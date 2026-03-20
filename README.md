@@ -10,14 +10,14 @@
 <p align="left">
 I’m Axel — a student developer from Bandung, Indonesia (🇮🇩) with a deep interest in how software can solve real-world problems. Currently, I'm sharpening my foundation in Software Engineering at a vocational high school, where I've fallen in love with the process of building clean and purposeful digital products.<br>
 
-Beyond the classroom, I immerse myself in Flutter development and AI-driven automation. I don't just want to write code; I strive to write it elegantly and maintainably. Driven by curiosity, I'm constantly experimenting with the synergy between technical logic and creative branding—always building with a 'purpose-first' mindset.
+Beyond the classroom, I immerse myself in Mobile development and AI-driven automation. I don't just want to write code; I strive to write it elegantly and maintainably. Driven by curiosity, I'm constantly experimenting with the synergy between technical logic and creative branding—always building with a 'purpose-first' mindset.
 </p>
 
 <h2 align="left">🌱 A little bit About me</h2>
 
 <p align="left">
   🎭 <b>Pronoun:</b> Axel ヾ(＠⌒ー⌒＠)ノ<br>
-  ✨ <b>Formal Education:</b> Student at <a href="https://www.instagram.com/smkbinawisatalembang_official">@BinaWisata</a> Vocational High School<br>
+  ✨ <b>Current Formal Education:</b> Student at <a href="https://www.instagram.com/smkbinawisatalembang_official">@BinaWisata</a> Vocational High School<br>
   🌐 <b>Portfolio:</b> <a href="https://portofolio.luminarysirx.my.id">Axelkenshi.my.id</a><br>
   📚 <b>Currently Learning:</b> Flutter & Mobile Development<br>
   🎯 <b>Goals:</b> Building impactful open-source projects<br>
@@ -32,17 +32,17 @@ Beyond the classroom, I immerse myself in Flutter development and AI-driven auto
 <div align="center">
 <table border="0" style="border-collapse: collapse; width: 100%;">
   <tr>
-    <!-- Bilah kiri: sosmed -->
+    <!-- Left side: social media -->
     <td align="left" valign="top" style="border: none;">
       <h3>🌐 Let's Connect With Me</h3>
       <a href="https://instagram.com/axelkenshi"><img src="https://skillicons.dev/icons?i=instagram" width="40" /></a>
       <a href="https://linkedin.com/in/axll-kenshi"><img src="https://skillicons.dev/icons?i=linkedin" width="40" /></a>
+      <a href="https://x.com"><img src="https://skillicons.dev/icons?i=twitter" width="40" /></a>
       <a href="mailto:axlldevolopment@yahoo.com"><img src="https://skillicons.dev/icons?i=gmail" width="40" /></a>
-      <a href="https://portofolio.luminarysirx.my.id"><img src="https://skillicons.dev/icons?i=markdown" width="40" /></a>
     </td>
-    <!-- JARAK ANTAR KOLOM -->
+    <!-- Gap Between Column -->
       <td width="50" style="border: none;"></td>
-    <!-- Bilah kanan: resume -->
+    <!-- Right side: PDF resume -->
     <td align="left" valign="top" style="border: none;">
       <h3>📜 Grab My Resume (PDF)</h3>
       <a href="https://example.com">
@@ -60,7 +60,7 @@ Beyond the classroom, I immerse myself in Flutter development and AI-driven auto
 
 ###
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,tailwind,scss,bootstrap,materialui,react,nodejs,expressjs,astro,svelte,mysql,postgresql,php,sqlite,dart,flutter&perline=15)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,tailwind,scss,bootstrap,materialui,react,nodejs,expressjs,astro,svelte,mysql,postgresql,php,sqlite,dart,flutter,kotlin&perline=15)](https://skillicons.dev)
 
 <h2 align="center">🤔 ever familiar (at least)</h2>
 
@@ -80,11 +80,6 @@ Beyond the classroom, I immerse myself in Flutter development and AI-driven auto
 
 ###
 
-<!-- Highlight Project's -->
-<h1 align="center">🚀 Featured Projects</h1>
-
----
-
 <!-- Productivity Stats -->
 <h1 align="center">📊 My Productivity</h1>
 
@@ -100,6 +95,11 @@ Beyond the classroom, I immerse myself in Flutter development and AI-driven auto
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/axelkenshi/axelkenshi/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/axelkenshi/axelkenshi/output/pacman-contribution-graph.svg">
 </picture>
+
+---
+
+<!-- Highlight Project's -->
+<h1 align="center">🚀 Featured Projects</h1>
 
 ---
 
