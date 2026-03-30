@@ -18,7 +18,7 @@ Beyond the classroom, I immerse myself in Mobile development and AI-driven autom
 <p align="left">
   🎭 <b>Pronoun:</b> Axel ヾ(＠⌒ー⌒＠)ノ<br>
   ✨ <b>Current Formal Education:</b> Student at <a href="https://www.instagram.com/smkbinawisatalembang_official">@BinaWisata</a> Vocational High School<br>
-  🌐 <b>Portfolio:</b> <a href="https://portofolio.luminarysirx.my.id">Axelkenshi.my.id</a><br>
+  🌐 <b>Portfolio:</b> <a href="https://axelkenshi.com">axelkenshi.com</a><br>
   📚 <b>Currently Learning:</b> Kotlin & web Development<br>
   🎯 <b>Goals:</b> Building impactful open-source projects<br>
   🎲 <b>Fun fact:</b> Really like exploring the latest AI trends<br>
@@ -28,11 +28,9 @@ Beyond the classroom, I immerse myself in Mobile development and AI-driven autom
 
 ---
 
-<div align="center">
+<!-- <div align="center">
   <img src="src/axllbanner.png" width="900" alt="Banner"/>
-</div>
-
----
+</div> -->
 
 <!-- Social media Section & CV -->
 <div align="center">
@@ -91,17 +89,18 @@ Beyond the classroom, I immerse myself in Mobile development and AI-driven autom
 <h1 align="center">📊 My Productivity</h1>
 
 <!-- github stats for readme -->
-<!-- <div style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=axelkenshi&layout=compact" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=axelkenshi&show_icons=true&theme=merko" width="48%" />
-</div> -->
+<div style="display: flex; justify-content: space-between;">
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=axelkenshi&theme=dark" alt="GitHub Streak" /></a>
+</div>
 
-
+<!-- packman -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/axelkenshi/axelkenshi/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/axelkenshi/axelkenshi/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/axelkenshi/axelkenshi/output/pacman-contribution-graph.svg">
 </picture>
+
+
 
 ---
 
@@ -111,14 +110,14 @@ Beyond the classroom, I immerse myself in Mobile development and AI-driven autom
 ---
 
 <!-- End: Decoration & Quotes -->
-<div align="center">
+<!-- <div align="center">
   <img height="700" src="https://media1.tenor.com/m/FTryuAk9O1sAAAAC/majo-no-tabitabi-the-journey-of-elaina.gif"  />
 </div>
 
 > [!TIP]
 > The long journey is a process that should be enjoyed, gradually achieving your goals, facing challenges that make you think about giving up. Experience is the practice of theory, transforming it into expertise.
 > 
-> **Keep Grinding!**
+> **Keep Grinding!** -->
 
 <div align="center">
   <img src="src/gray0_ctp_on_line.svg" width="100%"/>
