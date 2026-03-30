@@ -1,0 +1,34 @@
+name: GitHub Metrics
+on:
+  schedule: [{cron: "0 0 * * *"}] # Update otomatis setiap tengah malam
+  workflow_dispatch: # Tombol manual untuk update kapan saja
+  push: {branches: ["main", "master"]}
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Generate and Commit Metrics
+        uses: lowlighter/metrics@latest
+        with:
+          # Pastikan METRICS_TOKEN adalah Fine-grained Token yang baru dibuat
+          token: ${{ secrets.METRICS_TOKEN }}
+          
+          # Konfigurasi Profil
+          user: axelkenshi
+          template: classic
+          base: header, community, repositories, metadata
+          config_timezone: Asia/Jakarta
+          
+          # Plugin Tambahan
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
+          plugin_languages: yes
+          plugin_languages_sections: most-used
+          plugin_languages_details: percentage
+          
+          # Pengaturan Output
+          filename: github-metrics.svg
+          config_order: base.header, isocalendar, languages, base.repositories
