@@ -2,7 +2,7 @@ name: GitHub Metrics
 on:
   schedule: [{cron: "0 0 * * *"}] # Update otomatis setiap tengah malam
   workflow_dispatch: # Tombol manual untuk update kapan saja
-  push: {branches: ["main", "master"]}
+  push: {branches: ["main"]}
 
 jobs:
   github-metrics:
