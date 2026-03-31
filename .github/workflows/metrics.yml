@@ -49,7 +49,9 @@ jobs:
           base: ""
           plugin_achievements: yes
           plugin_achievements_display: compact # atau 'detailed'
-          plugin_achievements_threshold: C # Hanya tampilkan rank C ke atas
+          plugin_achievements_threshold: B # Hanya tampilkan rank C ke atas
+          plugin_achievements_secrets: yes # Menampilkan achievement tersembunyi
+          plugin_achievements_limit: 10    # Batasi agar tidak overload
 
       # 4. Featured Repositories & Starred Topics
       - name: Featured & Topics
@@ -62,10 +64,10 @@ jobs:
           base: ""
           # Featured Repositories (Repo yang di-pin)
           plugin_repositories: yes
-          plugin_repositories_featured: axelkenshi/nama-repo-anda # Masukkan repo unggulan Anda
+          plugin_repositories_featured: axelkenshi/bigbites-v2 # Masukkan repo unggulan Anda
           # Starred Topics dengan Ikon
           plugin_topics: yes
-          plugin_topics_limit: 12
+          plugin_topics_limit: 10
           plugin_topics_mode: icons # Menampilkan ikon topik
           plugin_topics_sort: stars
 
