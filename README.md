@@ -86,11 +86,12 @@ Beyond the classroom, I immerse myself in Mobile development and AI-driven autom
 ###
 
 <!-- Productivity Stats -->
-<h1 align="center">📊 My Productivity</h1>
+<h1 align="center">📊 My Activity</h1>
 
-<!-- github stats for readme -->
+<!-- github stats & language for readme -->
 <div style="display: flex; justify-content: space-between;">
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=axelkenshi&theme=dark" alt="GitHub Streak" /></a>
+  <a href="https://github.com"><img src="github-languages.svg" alt="Most Used Languages" /></a>
 </div>
 
 <!-- packman -->
@@ -100,8 +101,6 @@ Beyond the classroom, I immerse myself in Mobile development and AI-driven autom
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/axelkenshi/axelkenshi/output/pacman-contribution-graph.svg">
 </picture>
 
-
-
 ---
 
 <!-- Highlight Project's -->
@@ -109,15 +108,10 @@ Beyond the classroom, I immerse myself in Mobile development and AI-driven autom
 
 ---
 
-<!-- End: Decoration & Quotes -->
-<!-- <div align="center">
-  <img height="700" src="https://media1.tenor.com/m/FTryuAk9O1sAAAAC/majo-no-tabitabi-the-journey-of-elaina.gif"  />
+<div style="display: flex; justify-content: space-between;">
+  <a href="https://github.com"><img src="github-anilist.svg" alt="anilist" /></a>
+  <a href="https://github.com"><img src="github-metrics.svg" alt="metrics" /></a>
 </div>
-
-> [!TIP]
-> The long journey is a process that should be enjoyed, gradually achieving your goals, facing challenges that make you think about giving up. Experience is the practice of theory, transforming it into expertise.
-> 
-> **Keep Grinding!** -->
 
 <div align="center">
   <img src="src/gray0_ctp_on_line.svg" width="100%"/>
