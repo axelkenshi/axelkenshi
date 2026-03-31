@@ -28,10 +28,6 @@ Beyond the classroom, I immerse myself in Mobile development and AI-driven autom
 
 ---
 
-<!-- <div align="center">
-  <img src="src/axllbanner.png" width="900" alt="Banner"/>
-</div> -->
-
 <!-- Social media Section & CV -->
 <div align="center">
 <table border="0" style="border-collapse: collapse; width: 100%;">
@@ -61,7 +57,7 @@ Beyond the classroom, I immerse myself in Mobile development and AI-driven autom
 ---
 
 <!-- Tech stack Icons -->
-<h2 align="center">🥶 My Tech Stack</h2>
+<h2 align="center">🥶 Tech Stack</h2>
 
 ###
 
@@ -69,7 +65,7 @@ Beyond the classroom, I immerse myself in Mobile development and AI-driven autom
 
 <h2 align="center">🤔 ever familiar (at least)</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,haskell&perline=15)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,python&perline=15)](https://skillicons.dev)
 
 <h2 align="center">🛠️ Tools & Environments</h2>
 
@@ -89,10 +85,22 @@ Beyond the classroom, I immerse myself in Mobile development and AI-driven autom
 <h1 align="center">📊 My Activity</h1>
 
 <!-- github stats & language for readme -->
-<div style="display: flex; justify-content: space-between;">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=axelkenshi&theme=dark" alt="GitHub Streak" /></a>
-  <a href="https://github.com"><img src="github-languages.svg" alt="Most Used Languages" /></a>
-</div>
+<table width="100%">
+  <tr>
+    <!-- Kolom Kiri: github streak -->
+    <td width="50%" align="center" style="border: none;">
+      <a href="https://git.io/streak-stats">
+        <img src="https://streak-stats.demolab.com?user=axelkenshi&theme=dark" alt="GitHub Streak" width="100%" />
+      </a>
+    </td>
+    <!-- Kolom Kanan: language stats -->
+    <td width="50%" align="center" style="border: none;">
+      <a href="https://github.com">
+        <img src="github-languages.svg" alt="Most Used Languages" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <!-- packman -->
 <picture>
@@ -108,10 +116,22 @@ Beyond the classroom, I immerse myself in Mobile development and AI-driven autom
 
 ---
 
-<div style="display: flex; justify-content: space-between;">
-  <a href="https://github.com"><img src="github-anilist.svg" alt="anilist" /></a>
-  <a href="https://github.com"><img src="github-metrics.svg" alt="metrics" /></a>
-</div>
+<table width="100%">
+  <tr>
+    <!-- Kolom Kiri: AniList -->
+    <td width="50%" align="center" style="border: none;">
+      <a href="https://github.com">
+        <img src="github-anilist.svg" alt="AniList" width="100%" />
+      </a>
+    </td>
+    <!-- Kolom Kanan: Metrics -->
+    <td width="50%" align="center" style="border: none;">
+      <a href="https://github.com">
+        <img src="github-metrics.svg" alt="Metrics" width="100%" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <div align="center">
   <img src="src/gray0_ctp_on_line.svg" width="100%"/>
