@@ -35,9 +35,7 @@ Beyond the classroom, I immerse myself in Mobile development and AI-driven autom
     <!-- Left side: social media -->
     <td align="left" valign="top" style="border: none;">
       <h3>🌐 Let's Connect With Me</h3>
-      <a href="https://instagram.com/axelkenshi"><img src="https://skillicons.dev/icons?i=instagram" width="40" /></a>
-      <a href="https://linkedin.com/in/axll-kenshi"><img src="https://skillicons.dev/icons?i=linkedin" width="40" /></a>
-      <a href="https://x.com"><img src="https://skillicons.dev/icons?i=twitter" width="40" /></a>
+      <a href="https://linkedin.com/in/axel-kenshi-mikaeel"><img src="https://skillicons.dev/icons?i=linkedin" width="40" /></a>
       <a href="mailto:axlldevolopment@yahoo.com"><img src="https://skillicons.dev/icons?i=gmail" width="40" /></a>
       <!-- <a href="example.com"> <img src="src/playstore.svg" width="40"/></a> -->
     </td>
@@ -61,7 +59,7 @@ Beyond the classroom, I immerse myself in Mobile development and AI-driven autom
 
 ###
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,tailwind,scss,bootstrap,materialui,react,nodejs,expressjs,astro,svelte,mysql,postgresql,php,sqlite,kotlin&perline=15)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,tailwind,scss,astro,svelte,mysql,php,nodejs,dart&perline=15)](https://skillicons.dev)
 
 <h2 align="center">🤔 ever familiar (at least)</h2>
 
@@ -87,13 +85,13 @@ Beyond the classroom, I immerse myself in Mobile development and AI-driven autom
 <!-- github stats & language for readme -->
 <table width="100%">
   <tr>
-    <!-- Kolom Kiri: github streak -->
+    <!-- left column: github streak -->
     <td width="50%" align="center" style="border: none;">
       <a href="https://git.io/streak-stats">
-        <img src="https://streak-stats.demolab.com?user=axelkenshi&theme=dark" alt="GitHub Streak" width="100%" />
+          <img src="https://github-readme-streak-stats.herokuapp.com?user=axelkenshi" alt="GitHub Streak" />
       </a>
     </td>
-    <!-- Kolom Kanan: language stats -->
+    <!-- right column: language stats -->
     <td width="50%" align="center" style="border: none;">
       <a href="https://github.com">
         <img src="github-languages.svg" alt="Most Used Languages" />
@@ -118,13 +116,13 @@ Beyond the classroom, I immerse myself in Mobile development and AI-driven autom
 
 <table width="100%">
   <tr>
-    <!-- Kolom Kiri: AniList -->
+    <!-- left column: AniList -->
     <td width="50%" align="center" style="border: none;">
       <a href="https://github.com">
         <img src="github-anilist.svg" alt="AniList" width="100%" />
       </a>
     </td>
-    <!-- Kolom Kanan: Metrics -->
+    <!-- right column: Metrics -->
     <td width="50%" align="center" style="border: none;">
       <a href="https://github.com">
         <img src="github-metrics.svg" alt="Metrics" width="100%" />
