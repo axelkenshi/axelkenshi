@@ -19,7 +19,7 @@ Beyond the classroom, I immerse myself in Mobile development and AI-driven autom
   🎭 <b>Pronoun:</b> Axel ヾ(＠⌒ー⌒＠)ノ<br>
   ✨ <b>Current Formal Education:</b> Student at <a href="https://www.instagram.com/smkbinawisatalembang_official">@BinaWisata</a> Vocational High School<br>
   🌐 <b>Portfolio:</b> <a href="https://axelkenshi.com">axelkenshi.com</a><br>
-  📚 <b>Currently Learning:</b> Kotlin & web Development<br>
+  📚 <b>Currently Learning:</b> Dart & Front-end web Development<br>
   🎯 <b>Goals:</b> Building impactful open-source projects<br>
   🎲 <b>Fun fact:</b> Really like exploring the latest AI trends<br>
   💡 <b>Philosophy:</b> Code with clarity, brand with boldness, building with purpose.<br>
