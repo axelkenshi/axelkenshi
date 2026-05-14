@@ -2,8 +2,6 @@
   <img src="src/github-header-banner.gif" width="900" alt="Banner"/>
 </div>
 
----
-
 <!-- Simple biograpy -->
 <h1 align="left">Hey, What's up? 🙋‍♂️</h1>
 
@@ -17,16 +15,13 @@ Beyond the classroom, I immerse myself in Mobile development and AI-driven autom
 
 <p align="left">
   🎭 <b>Pronoun:</b> Axel ヾ(＠⌒ー⌒＠)ノ<br>
-  ✨ <b>Current Formal Education:</b> Student at <a href="https://www.instagram.com/smkbinawisatalembang_official">@BinaWisata</a> Vocational High School<br>
-  🌐 <b>Portfolio:</b> <a href="https://axelkenshi.com">axelkenshi.com</a><br>
+  🌐 <b>Portfolio:</b> <a href="https://axelkenshi.my.id">See Me!</a><br>
   📚 <b>Currently Learning:</b> Dart & Front-end web Development<br>
   🎯 <b>Goals:</b> Building impactful open-source projects<br>
   🎲 <b>Fun fact:</b> Really like exploring the latest AI trends<br>
   💡 <b>Philosophy:</b> Code with clarity, brand with boldness, building with purpose.<br>
   🧠 <b>Thinking Style:</b> Detail-oriented & creatively curious
 </p>
-
----
 
 <!-- Social media Section & CV -->
 <div align="center">
@@ -52,18 +47,14 @@ Beyond the classroom, I immerse myself in Mobile development and AI-driven autom
 </table>
 </div>
 
----
-
 <!-- Tech stack Icons -->
 <h2 align="center">🥶 Tech Stack</h2>
 
-###
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,tailwind,scss,astro,svelte,mysql,php,nodejs,dart&perline=15)](https://skillicons.dev)
-
-<h2 align="center">🤔 ever familiar (at least)</h2>
-
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,python&perline=15)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,scss,astro,svelte,mysql,php,nodejs,dart&perline=15" />
+  </a>
+</p>
 
 <h2 align="center">🛠️ Tools & Environments</h2>
 
@@ -75,9 +66,9 @@ Beyond the classroom, I immerse myself in Mobile development and AI-driven autom
   </a>
 </p>
 
----
-
-###
+<div align="center">
+  <img src="src/gray0_ctp_on_line.svg" width="100%"/>
+</div>
 
 <!-- Productivity Stats -->
 <h1 align="center">📊 My Activity</h1>
@@ -107,12 +98,8 @@ Beyond the classroom, I immerse myself in Mobile development and AI-driven autom
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/axelkenshi/axelkenshi/output/pacman-contribution-graph.svg">
 </picture>
 
----
-
 <!-- Highlight Project's -->
-<h1 align="center">🚀 Featured Projects</h1>
-
----
+<!-- <h1 align="center">🚀 Featured Projects</h1> -->
 
 <table width="100%">
   <tr>
@@ -132,5 +119,5 @@ Beyond the classroom, I immerse myself in Mobile development and AI-driven autom
 </table>
 
 <div align="center">
-  <img src="src/gray0_ctp_on_line.svg" width="100%"/>
+  <img src="src/flow.svg" width="100%"/>
 </div>
