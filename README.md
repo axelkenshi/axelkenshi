@@ -31,7 +31,6 @@ Beyond the classroom, I immerse myself in Mobile development and AI-driven autom
     <td align="left" valign="top" style="border: none;">
       <h3>🌐 Let's Connect With Me</h3>
       <a href="https://linkedin.com/in/axel-kenshi-mikaeel"><img src="https://skillicons.dev/icons?i=linkedin" width="40" /></a>
-      <a href="mailto:axlldevolopment@yahoo.com"><img src="https://skillicons.dev/icons?i=gmail" width="40" /></a>
       <!-- <a href="example.com"> <img src="src/playstore.svg" width="40"/></a> -->
     </td>
     <!-- Gap Between Column -->
