@@ -16,53 +16,11 @@ Beyond the classroom, I immerse myself in Mobile development and AI-driven autom
 <p align="left">
   🎭 <b>Pronoun:</b> Axel ヾ(＠⌒ー⌒＠)ノ<br>
   🌐 <b>Portfolio:</b> <a href="https://axelkenshi.my.id">See Me!</a><br>
-  📚 <b>Currently Learning:</b> Dart & Front-end web Development<br>
+  📚 <b>Currently Learning:</b> Flutter<br>
   🎯 <b>Goals:</b> Building impactful open-source projects<br>
   🎲 <b>Fun fact:</b> Really like exploring the latest AI trends<br>
   💡 <b>Philosophy:</b> Code with clarity, brand with boldness, building with purpose.<br>
   🧠 <b>Thinking Style:</b> Detail-oriented & creatively curious
-</p>
-
-<!-- Social media Section & CV -->
-<div align="center">
-<table border="0" style="border-collapse: collapse; width: 100%;">
-  <tr>
-    <!-- Left side: social media -->
-    <td align="left" valign="top" style="border: none;">
-      <h3>🌐 Let's Connect With Me</h3>
-      <a href="https://linkedin.com/in/axel-kenshi-mikaeel"><img src="https://skillicons.dev/icons?i=linkedin" width="40" /></a>
-      <!-- <a href="example.com"> <img src="src/playstore.svg" width="40"/></a> -->
-    </td>
-    <!-- Gap Between Column -->
-      <td width="50" style="border: none;"></td>
-    <!-- Right side: PDF resume -->
-    <td align="left" valign="top" style="border: none;">
-      <h3>📜 Grab My Resume (PDF)</h3>
-      <a href="https://example.com">
-        <img src="src/curriculum-resume-svgrepo-com.svg" width="40"/>
-      </a>
-    </td>
-  </tr>
-</table>
-</div>
-
-<!-- Tech stack Icons -->
-<h2 align="center">🥶 Tech Stack</h2>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,scss,astro,svelte,mysql,php,nodejs,dart&perline=15" />
-  </a>
-</p>
-
-<h2 align="center">🛠️ Tools & Environments</h2>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,git,github,vscode,visualstudio,postman,notion,obsidian,netlify,vercel,vite,npm,pnpm,yarn" />
-    <img src="https://skillicons.dev/icons?i=nginx,firebase,gulp,babel,bun,latex,markdown" />
-    <img src="https://skillicons.dev/icons?i=windows,bash,cloudflare,docker,githubactions,stackoverflow" />
-  </a>
 </p>
 
 <div align="center">
@@ -70,7 +28,7 @@ Beyond the classroom, I immerse myself in Mobile development and AI-driven autom
 </div>
 
 <!-- Productivity Stats -->
-<h1 align="center">📊 My Activity</h1>
+<h1 align="left">📊 Activity Stats</h1>
 
 <!-- github stats & language for readme -->
 <table width="100%">
