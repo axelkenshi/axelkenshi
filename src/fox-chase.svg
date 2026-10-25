@@ -1,0 +1,248 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 180" width="1200" height="180" shape-rendering="crispEdges">
+  <title>Rubah emas mengejar kelinci cokelat melintasi gurun</title>
+  <style>
+    .rocks    { animation: rocks 8s linear infinite; }
+    .cacti    { animation: cacti 12s linear infinite; }
+    .fox-jump { animation: foxjump 8s ease-in-out infinite; }
+    .fox-pitch{ transform-box: fill-box; transform-origin: 50% 50%; animation: foxpitch 8s ease-in-out infinite; }
+    .leg-a    { transform-box: fill-box; transform-origin: 50% 0; animation: legA .3s ease-in-out infinite alternate; }
+    .leg-b    { transform-box: fill-box; transform-origin: 50% 0; animation: legB .3s ease-in-out infinite alternate; }
+    .tail     { transform-box: fill-box; transform-origin: 100% 50%; animation: tail .6s ease-in-out infinite alternate; }
+    .rhop     { animation: rhop 8s ease-in-out infinite; }
+    .rkick-b  { transform-box: fill-box; transform-origin: 50% 0; animation: rkickB 8s ease-in-out infinite; }
+    .rkick-f  { transform-box: fill-box; transform-origin: 50% 0; animation: rkickF 8s ease-in-out infinite; }
+    .rrun-b   { transform-box: fill-box; transform-origin: 50% 0; animation: rrun .25s ease-in-out infinite alternate; }
+    .rrun-f   { transform-box: fill-box; transform-origin: 50% 0; animation: rrun .25s ease-in-out infinite alternate-reverse; }
+    .ear      { transform-box: fill-box; transform-origin: 50% 100%; animation: ear .35s ease-in-out infinite alternate; }
+    .dust     { transform-box: fill-box; transform-origin: 50% 50%; animation: dust 8s ease-out infinite; }
+    .tw-roll  { animation: tw 9s linear infinite; }
+    .tw-bob   { animation: twbob .4s ease-in-out infinite alternate; }
+    .tw-spin  { transform-box: fill-box; transform-origin: 50% 50%; animation: spin .7s linear infinite; }
+
+    @keyframes rocks  { from { transform: translateX(0); } to { transform: translateX(-800px); } }
+    @keyframes cacti  { from { transform: translateX(0); } to { transform: translateX(-400px); } }
+
+    /* Rubah: puncak lompatan di 20% (1.6s) dan 70% (5.6s) */
+    @keyframes foxjump {
+      0%, 12%, 28%, 62%, 78%, 100% { transform: translateY(0); }
+      20%, 70% { transform: translateY(-40px); }
+    }
+    @keyframes foxpitch {
+      0%, 12%, 28%, 62%, 78%, 100% { transform: rotate(0deg); }
+      16%, 66% { transform: rotate(-6deg); }
+      20%, 70% { transform: rotate(-2deg); }
+      24%, 74% { transform: rotate(4deg); }
+    }
+    @keyframes legA  { from { transform: rotate(-32deg); } to { transform: rotate(32deg); } }
+    @keyframes legB  { from { transform: rotate(32deg); } to { transform: rotate(-32deg); } }
+    @keyframes tail  { from { transform: rotate(-10deg); } to { transform: rotate(10deg); } }
+
+    /* Kelinci: puncak lompatan di 31.25% (2.5s) dan 81.25% (6.5s) */
+    @keyframes rhop {
+      0%, 24%, 38%, 74%, 88%, 100% { transform: translateY(0) rotate(0deg); }
+      28%, 78% { transform: translateY(-14px) rotate(-6deg); }
+      31.25%, 81.25% { transform: translateY(-28px) rotate(-4deg); }
+      35%, 85% { transform: translateY(-12px) rotate(3deg); }
+    }
+    @keyframes rkickB {
+      0%, 24%, 38%, 74%, 88%, 100% { transform: rotate(0deg); }
+      31.25%, 81.25% { transform: rotate(35deg); }
+    }
+    @keyframes rkickF {
+      0%, 24%, 38%, 74%, 88%, 100% { transform: rotate(0deg); }
+      31.25%, 81.25% { transform: rotate(-25deg); }
+    }
+    @keyframes rrun  { from { transform: rotate(-12deg); } to { transform: rotate(12deg); } }
+
+    @keyframes ear   { from { transform: rotate(-7deg); } to { transform: rotate(7deg); } }
+    @keyframes dust {
+      0%, 30% { transform: scale(.4); opacity: 0; }
+      31.25% { transform: scale(.4); opacity: .85; }
+      38% { transform: scale(2.2); opacity: 0; }
+      39%, 80% { transform: scale(.4); opacity: 0; }
+      81.25% { transform: scale(.4); opacity: .85; }
+      88% { transform: scale(2.2); opacity: 0; }
+      89%, 100% { transform: scale(.4); opacity: 0; }
+    }
+    @keyframes tw    { 0% { transform: translateX(-60px); opacity: 0; } 6% { opacity: 1; } 88% { transform: translateX(1260px); opacity: 1; } 100% { transform: translateX(1300px); opacity: 0; } }
+    @keyframes twbob { from { transform: translateY(0); } to { transform: translateY(-3px); } }
+    @keyframes spin  { to { transform: rotate(360deg); } }
+  </style>
+
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffe3b0"/>
+      <stop offset="0.7" stop-color="#f7b272"/>
+      <stop offset="1" stop-color="#eb8a4a"/>
+    </linearGradient>
+
+    <!-- Kaktus (pangkal di 0,0) -->
+    <g id="cactus">
+      <rect x="-5" y="-50" width="10" height="50" fill="#5f7a3a"/>
+      <rect x="-3" y="-50" width="2" height="50" fill="#7c9a4d"/>
+      <rect x="-20" y="-30" width="15" height="6" fill="#5f7a3a"/>
+      <rect x="-20" y="-42" width="6" height="18" fill="#5f7a3a"/>
+      <rect x="5" y="-22" width="15" height="6" fill="#5f7a3a"/>
+      <rect x="14" y="-34" width="6" height="18" fill="#5f7a3a"/>
+    </g>
+
+    <!-- Batu A: bulat-bersudut, pangkal di (0,0), tinggi dasar 10 -->
+    <g id="rockA">
+      <path d="M0 0 L2 -6 L6 -9 L13 -10 L18 -6 L20 0 Z" fill="#8a7060"/>
+      <path d="M2 -6 L6 -9 L8 -5 L3 -3 Z" fill="#b59c8c"/>
+      <path d="M13 -10 L18 -6 L20 0 L12 0 L14 -5 Z" fill="#6b5444"/>
+    </g>
+    <!-- Batu B: pipih, pangkal di (0,0), tinggi dasar 7 -->
+    <g id="rockB">
+      <path d="M0 0 L3 -5 L9 -7 L16 -6 L20 -2 L22 0 Z" fill="#7d5e4e"/>
+      <path d="M3 -5 L9 -7 L8 -3 L3 -2 Z" fill="#a8907e"/>
+      <path d="M16 -6 L20 -2 L22 0 L13 0 L14 -3 Z" fill="#5c4538"/>
+    </g>
+  </defs>
+
+  <!-- Langit dan matahari -->
+  <rect width="1200" height="180" fill="url(#sky)"/>
+  <circle cx="1040" cy="42" r="20" fill="#fff4cf" opacity="0.85"/>
+
+  <!-- Bukit jauh -->
+  <path d="M0 120 Q150 88 300 118 T600 112 T900 116 T1200 110 L1200 180 L0 180 Z" fill="#e8955a" opacity="0.55"/>
+
+  <!-- Kaktus (latar, bergerak lebih lambat) -->
+  <g class="cacti">
+    <use href="#cactus" x="90" y="150"/>
+    <use href="#cactus" x="300" y="150"/>
+    <use href="#cactus" x="490" y="150"/>
+    <use href="#cactus" x="700" y="150"/>
+    <use href="#cactus" x="890" y="150"/>
+    <use href="#cactus" x="1100" y="150"/>
+    <use href="#cactus" x="1290" y="150"/>
+    <use href="#cactus" x="1500" y="150"/>
+  </g>
+
+  <!-- Bukit dekat -->
+  <path d="M0 132 Q220 106 430 134 T860 126 T1200 128 L1200 180 L0 180 Z" fill="#d9733a" opacity="0.85"/>
+
+  <!-- Tanah -->
+  <rect x="0" y="150" width="1200" height="30" fill="#c8622c"/>
+  <rect x="0" y="150" width="1200" height="2" fill="#e0894a"/>
+  <rect x="60" y="162" width="8" height="2" fill="#e0894a"/>
+  <rect x="380" y="170" width="12" height="2" fill="#e0894a"/>
+  <rect x="820" y="164" width="9" height="2" fill="#e0894a"/>
+  <rect x="1060" y="172" width="12" height="2" fill="#e0894a"/>
+
+  <!-- Batu: 2 batu per 800px, ukuran acak, tinggi maks ~18px.
+       Batu di x=200 (center 232) dilompati kelinci pada 2.5s dan rubah pada 5.6s.
+       Batu di x=600 (center 601) dilompati rubah pada 1.6s dan kelinci pada 6.5s. -->
+  <g class="rocks">
+    <use href="#rockA" transform="translate(168,150) scale(3.2,1.8)"/>
+    <use href="#rockB" transform="translate(580,150) scale(1.9,1.6)"/>
+    <use href="#rockA" transform="translate(968,150) scale(2.6,1.5)"/>
+    <use href="#rockB" transform="translate(1380,150) scale(2.2,1.9)"/>
+  </g>
+
+  <!-- Tumbleweed: ranting kering yang berputar dan memantul -->
+  <g class="tw-roll">
+    <g transform="translate(0,137)">
+      <g class="tw-bob">
+        <g class="tw-spin">
+          <circle r="12" fill="none" stroke="#8a5628" stroke-width="1" opacity="0.5"/>
+          <path d="M-12 -5 Q-4 -14 4 -11 Q12 -8 11 1 Q9 10 0 11 Q-10 12 -12 3 Q-13 -1 -6 -3 Q-1 -4 2 1 Q4 5 -1 6" fill="none" stroke="#7a4a22" stroke-width="1.6" stroke-linecap="round"/>
+          <path d="M-8 -12 Q-12 -2 -6 8 M6 -12 Q13 -4 7 7 M-12 4 Q2 2 12 -6 M-4 -13 Q3 4 -9 11 M10 9 Q1 -2 -10 -8" fill="none" stroke="#5a3418" stroke-width="1.1" stroke-linecap="round"/>
+          <path d="M-6 -6 Q0 -10 5 -5" fill="none" stroke="#c28a50" stroke-width="1"/>
+        </g>
+      </g>
+    </g>
+  </g>
+
+  <!-- Rubah emas (pemburu) -->
+  <g transform="translate(400,150)">
+    <g class="fox-jump">
+      <g class="fox-pitch">
+        <g transform="scale(2.5)">
+          <!-- Kaki -->
+          <g transform="translate(-2,-8)"><g class="leg-b">
+            <rect x="-1" y="0" width="3" height="8" fill="#c9621a"/>
+            <rect x="-1" y="6" width="3" height="2" fill="#3b2a1a"/>
+          </g></g>
+          <g transform="translate(9,-8)"><g class="leg-b">
+            <rect x="-1" y="0" width="3" height="8" fill="#c9621a"/>
+            <rect x="-1" y="6" width="3" height="2" fill="#3b2a1a"/>
+          </g></g>
+          <g transform="translate(-6,-8)"><g class="leg-a">
+            <rect x="-1" y="0" width="3" height="8" fill="#f28a2e"/>
+            <rect x="-1" y="6" width="3" height="2" fill="#3b2a1a"/>
+          </g></g>
+          <g transform="translate(13,-8)"><g class="leg-a">
+            <rect x="-1" y="0" width="3" height="8" fill="#f28a2e"/>
+            <rect x="-1" y="6" width="3" height="2" fill="#3b2a1a"/>
+          </g></g>
+
+          <!-- Ekor -->
+          <g transform="translate(-8,-13)"><g class="tail">
+            <rect x="-8" y="-3" width="9" height="5" fill="#f28a2e"/>
+            <rect x="-9" y="-4" width="3" height="6" fill="#fff5e0"/>
+            <rect x="-8" y="-1" width="9" height="1" fill="#c9621a"/>
+          </g></g>
+
+          <!-- Badan -->
+          <rect x="-9" y="-15" width="21" height="9" fill="#f28a2e"/>
+          <rect x="-8" y="-16" width="16" height="1" fill="#c9621a"/>
+          <rect x="-7" y="-8" width="16" height="2" fill="#fff5e0"/>
+
+          <!-- Kepala -->
+          <rect x="8" y="-22" width="9" height="8" fill="#f28a2e"/>
+          <rect x="15" y="-18" width="5" height="4" fill="#f28a2e"/>
+          <rect x="11" y="-16" width="6" height="2" fill="#fff5e0"/>
+          <rect x="9" y="-26" width="3" height="4" fill="#f28a2e"/>
+          <rect x="9" y="-26" width="3" height="1" fill="#3b2a1a"/>
+          <rect x="14" y="-26" width="3" height="4" fill="#f28a2e"/>
+          <rect x="14" y="-26" width="3" height="1" fill="#3b2a1a"/>
+          <rect x="12" y="-20" width="2" height="2" fill="#3b2a1a"/>
+          <rect x="19" y="-18" width="2" height="2" fill="#3b2a1a"/>
+        </g>
+      </g>
+    </g>
+  </g>
+
+  <!-- Kelinci cokelat (panik) -->
+  <g transform="translate(720,150)">
+    <ellipse class="dust" cx="-18" cy="-2" rx="4" ry="2" fill="#f0b07a"/>
+    <g class="rhop">
+      <g transform="scale(2.2)">
+        <!-- Kaki belakang: berayun terus, lalu menendang saat di udara -->
+        <g transform="translate(-6,-5)"><g class="rkick-b"><g class="rrun-b">
+          <rect x="-2" y="0" width="4" height="5" fill="#7a4f2a"/>
+          <rect x="-3" y="4" width="5" height="2" fill="#3b2a1a"/>
+        </g></g></g>
+        <!-- Kaki depan: berayun terus, lalu ditarik ke depan saat di udara -->
+        <g transform="translate(4,-5)"><g class="rkick-f"><g class="rrun-f">
+          <rect x="-1" y="0" width="3" height="5" fill="#7a4f2a"/>
+          <rect x="-1" y="4" width="3" height="1" fill="#3b2a1a"/>
+        </g></g></g>
+
+        <!-- Ekor -->
+        <rect x="-11" y="-12" width="3" height="3" fill="#f5efe0"/>
+
+        <!-- Badan -->
+        <rect x="-9" y="-13" width="18" height="9" fill="#9a6b3f"/>
+        <rect x="-7" y="-6" width="13" height="2" fill="#c9955e"/>
+
+        <!-- Kepala -->
+        <rect x="5" y="-16" width="8" height="8" fill="#9a6b3f"/>
+        <rect x="11" y="-10" width="3" height="3" fill="#c9955e"/>
+        <rect x="13" y="-10" width="1" height="1" fill="#d9607a"/>
+        <rect x="10" y="-13" width="2" height="2" fill="#1a1008"/>
+
+        <!-- Telinga -->
+        <g transform="translate(7,-16)"><g class="ear">
+          <rect x="-1" y="-12" width="2" height="12" fill="#9a6b3f"/>
+          <rect x="0" y="-11" width="1" height="9" fill="#f2a7a7"/>
+        </g></g>
+        <g transform="translate(10,-16)"><g class="ear" style="animation-delay:-0.15s">
+          <rect x="-1" y="-12" width="2" height="12" fill="#9a6b3f"/>
+          <rect x="0" y="-11" width="1" height="9" fill="#f2a7a7"/>
+        </g></g>
+      </g>
+    </g>
+  </g>
+</svg>
