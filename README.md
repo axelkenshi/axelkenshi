@@ -76,5 +76,5 @@ Beyond the classroom, I immerse myself in Mobile development and AI-driven autom
 </table>
 
 <div align="center">
-  <img src="src/flow.svg" width="100%"/>
+  <img src="src/fox-chase.svg" width="100%"/>
 </div>
